@@ -4,7 +4,7 @@ This project demonstrates a CRUD API built with TypeScript and Express. The purp
 
 The software provides an API to create, read, update, and delete users (CRUD) and utilizes TypeScript to define strong types for entities, improve error handling, and validate input data using recursive functions. The result is a robust API that can be extended and maintained efficiently.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/n40hqlq9Lwk)
 
 # Development Environment
 
